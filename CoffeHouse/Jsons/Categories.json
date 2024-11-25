@@ -1,0 +1,27 @@
+[
+       {
+           "id": "1",
+           "image": "ic_coffee",
+           "content": "COFFEE"
+       },
+       {
+           "id": "2",
+           "image": "ic_dessert",
+           "content": "DESSERTS"
+       },
+       {
+           "id": "3",
+           "image": "ic_alcohol",
+           "content": "ALCOHOL"
+       },
+       {
+           "id": "4",
+           "image": "ic_alcohol_free",
+           "content": "ALCOHOL FREE"
+       },
+       {
+           "id": "5",
+           "image": "ic_breakfast",
+           "content": "BREAKFAST"
+       }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "admin",
+        "username": "admin",
+        "password": "asdfasdf",
+        "isAdmin": true
+    },
+    {
+        "id": 1,
+        "name": "customer1",
+        "username": "customer1",
+        "password": "asdfasdf",
+        "isAdmin": false
+    },
+    {
+        "id": 2,
+        "name": "customer2",
+        "username": "customer2",
+        "password": "asdfasdf",
+        "isAdmin": false
+    },
+    {
+        "id": 4,
+        "name": "1",
+        "username": "1",
+        "password": "1",
+        "isAdmin": false
+    },
+]

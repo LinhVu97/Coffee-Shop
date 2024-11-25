@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "image": "ic_drink_cappuccino",
+        "name": "Cappuccino",
+        "price": 3,
+        "sizes": ["S", "M", "L"],
+        "rating": 4.5,
+        "quantity": 1,
+        "type": ["1", "2", "3", "4"]
+    },
+    {
+        "id": "1",
+        "image": "ic_drink_espresso",
+        "name": "Espresso",
+        "price": 2,
+        "sizes": [],
+        "rating": 4.2,
+        "quantity": 1,
+        "type": ["2", "3", "4", "5"]
+    },
+    {
+        "id": "3",
+        "image": "ic_drink_americano",
+        "name": "Americano",
+        "price": 2.5,
+        "sizes": ["S"],
+        "rating": 4.0,
+        "quantity": 1,
+        "type": ["3", "4", "5", "1"]
+    },
+    {
+        "id": "4",
+        "image": "ic_drink_latte",
+        "name": "Latte",
+        "price": 3.5,
+        "sizes": ["S", "M", "L"],
+        "rating": 4.8,
+        "quantity": 1,
+        "type": ["4", "5", "1", "2"]
+    },
+    {
+        "id": "5",
+        "image": "ic_drink_mocha",
+        "name": "Mocha",
+        "price": 4,
+        "sizes": ["S", "M"],
+        "rating": 4.7,
+        "quantity": 1,
+        "type": ["5", "1", "2", "3"]
+    },
+    {
+        "id": "2",
+        "image": "ic_drink_tea",
+        "name": "Tea",
+        "price": 2,
+        "sizes": [],
+        "rating": 3.9,
+        "quantity": 1,
+        "type": ["6"]
+    }
+]
